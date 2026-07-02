@@ -14,3 +14,4 @@
  - https://github.com/renamon2/waybar_rena
  - https://github.com/renamon2/rofi_rena
 ##### It is based on kvantum theme by [rose-pine](https://github.com/rose-pine/kvantum).
+Блять обидно, что меня в лицензию автоматом не записало. Кстати rose pine лучше Catppuccin
