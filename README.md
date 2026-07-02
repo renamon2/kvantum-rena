@@ -1,5 +1,5 @@
 ### My recomendations:
-#### AUTO-INSTALL with autobackup
+#### AUTO-INSTALL
 `curl -sSL https://github.com/renamon2/kvantum_rena/raw/refs/heads/main/.install.sh | bash`
  - I write this script 12 hours. this first my interactive script for shell
  - ONLY FOR void/vostok linux!!!! Do not run in another distro!!!
