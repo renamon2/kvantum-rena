@@ -1,3 +1,10 @@
+### My recomendations:
+#### AUTO-INSTALL with autobackup
+`curl -sSL https://github.com/renamon2/kvantum_rena/raw/refs/heads/main/.install.sh | bash`
+ - I write this script 12 hours. this first my interactive script for shell
+ - ONLY FOR void/vostok linux!!!! Do not run in another distro!!!
+ - SHe can change theme in kvantum, qt6ct, gtk 3.0, gtk 4.0
+
 | Моя тема для  rofi: Рена   | My theme for rofi: Rena   | Color: Night                    |
 |----------------------------|---------------------------|---------------------------------|
 | Используемы цвета:         | The usage color:          |     HTML               RGB      |
