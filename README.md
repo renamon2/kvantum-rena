@@ -22,4 +22,4 @@
  - https://github.com/renamon2/rofi_rena
 ##### It is based on kvantum theme by [rose-pine](https://github.com/rose-pine/kvantum).
 Блять обидно, что меня в лицензию автоматом не записало. Кстати rose pine лучше Catppuccin
-In scrippt used gtk theme from [rose-pine](https://github.com/rose-pine)
+##### In scrippt used gtk theme from [rose-pine](https://github.com/rose-pine)
